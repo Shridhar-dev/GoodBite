@@ -1,0 +1,13 @@
+.card_main{
+height:250px;
+width:200px;
+border: 1px solid rgb(0,0,0,0.2);
+transition:0.5s;
+}
+.card_main:hover{
+    box-shadow:-1px 16px 40px 0px rgba(0,0,0,0.19);
+}
+.card_img{
+    display: block;
+}
+

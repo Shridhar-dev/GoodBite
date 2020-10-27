@@ -1,0 +1,24 @@
+.main,.navbar{
+    background-color:  black;
+    
+}
+.nav-link,.navbar-brand,.navbar-brand:hover,.nav-link:hover{
+    color: white;
+}
+.start-text{
+    font-size: 4rem;
+}
+.sub-text{
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+.head-text{
+    color:white;
+    
+}
+.navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+
+
