@@ -1,0 +1,9 @@
+.bordr-right{
+    border-right:0.5px solid rgb(0,0,0,0.2);
+}
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .bordr-right{
+        border-right:0px solid rgb(0,0,0,0.2);
+    }
+  }
