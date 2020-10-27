@@ -5,7 +5,7 @@ import hi from "./Imgs/header_img.png"
 function Header() {
     return (
         <>
-        <nav class="navbar navbar-expand-lg px-5 py-4">
+        <nav class="navbar navbar-expand-lg px-3 py-4">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">GoodBite🥗</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
